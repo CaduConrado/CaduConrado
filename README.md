@@ -1,4 +1,4 @@
-### Hi I'm Cadu👋
+### Hi, I'm Cadu👋
 
 💻 Computer Science student
 
