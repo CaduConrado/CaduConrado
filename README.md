@@ -11,8 +11,9 @@ Some facts about me:
 <div>
 <a href="https://github.com/CaduConrado">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CaduConrado&theme=chartreuse-dark&show_icons=true">
-<img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
+
 
 ## Contato: 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conradobcc@gmail.com)
