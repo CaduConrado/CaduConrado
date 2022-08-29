@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Cadu! </h1>
 
 💻 Computer Science student
-##
+
 Some facts about me:
 
 - 🔭 I’m currently working on microservice project integrate with AR in the research group NuPPGIN.
@@ -21,6 +21,8 @@ Some facts about me:
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     
 </p>
+
+## 
 
 <h3 align=center> Contact: </h3>
 <p align="center">
