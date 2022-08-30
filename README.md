@@ -8,10 +8,13 @@ Some facts about me:
 - 🌱 I’m currently learning about NodeJS, Express.JS and Microservices.
 - 👯 I’m looking to collaborate on the growth of tech comunity.
 ## 
-<p>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CaduConrado&theme=cobalt&show_icons=true">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=16&theme=cobalt"/>
-</p>
+
+<h3>
+<a>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=CaduConrado&theme=cobalt&show_icons=true">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=16&theme=cobalt"/>
+</a>
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
