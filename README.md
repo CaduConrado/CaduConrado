@@ -32,8 +32,17 @@ Some facts about me:
     
 </p>
 
-## 
+
+
+<h3 align="center"> 
+<img align='center' src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="300"> 
+
+</h3>
+
+##
 
 <h3 align=center> Contact: </h3>
 <p align="center">
 <a href="mailto:conradobcc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CaduConrado" height="30" width="80" /></a>
+
+
