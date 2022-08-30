@@ -4,7 +4,7 @@
 
 Some facts about me:
 
-- 🔭 I’m currently working on microservice project integrate with AR in the research group NuPPGIN.
+- 🔭 I’m currently working at a microservice project integrate with AR in the research group NuPPGIN.
 - 🌱 I’m currently learning about NodeJS, Express.JS and Microservices.
 - 👯 I’m looking to collaborate on the growth of tech comunity.
 ## 
