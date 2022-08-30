@@ -9,8 +9,8 @@ Some facts about me:
 - 👯 I’m looking to collaborate on the growth of tech comunity.
 ## 
 <p>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CaduConrado&theme=dark&show_icons=true">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=16&theme=dark"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CaduConrado&theme=cobalt&show_icons=true">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=16&theme=cobalt"/>
 <p>
 
 <h3 align="left">Languages and Tools:</h3>
