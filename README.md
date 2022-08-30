@@ -2,11 +2,16 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=CaduConrado alt=CaduConrado/> </p>
 💻 Computer Science student
 
+<img align='right' src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="230">
+
 Some facts about me:
 
 - 🔭 I’m currently working at a microservice project integrate with AR in the research group NuPPGIN.
 - 🌱 I’m currently learning about NodeJS, Express.JS and Microservices.
 - 👯 I’m looking to collaborate on the growth of tech comunity.
+
+<br>
+
 ## 
 
 <h3 align="center">
