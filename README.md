@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Cadu! </h1>
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=CaduConrado alt=CaduConrado/> </p>
 💻 Computer Science student
 
 Some facts about me:
