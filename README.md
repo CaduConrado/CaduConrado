@@ -17,7 +17,7 @@ Some facts about me:
 <h3 align="center">
 <p align="center">
 <a>
-
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=CaduConrado&theme=cobalt&show_icons=true">
 <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=16&theme=cobalt"/>
 </a>
 </p>
