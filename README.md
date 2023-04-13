@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working at a microservice project integrate with AR in the research group NuPPGIN.<br>- 🌱 I’m currently learning about backend development with Javascript|Nodejs|Express and Microservices.<br>- 👯 I’m looking to collaborate on the growth of tech comunity.<br>
+- 🔭 I’m currently working at a microservice project integrate with AR in the research group NuPPGIN.<br>- 🌱 I’m currently learning about backend development with Javascript|Node.JS|Express and Microservices.<br>- 👯 I’m looking to collaborate on the growth of tech comunity.<br>
 
 
 ## 🌐 Socials:
