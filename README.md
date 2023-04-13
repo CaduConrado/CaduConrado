@@ -1,53 +1,18 @@
-<h1 align="center"> Hi 👋, I'm Cadu! </h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=CaduConrado alt=CaduConrado/> </p>
-💻 Computer Science student
-
-<img align='right' src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="230">
-
-Some facts about me:
-
-- 🔭 I’m currently working at a microservice project integrate with AR in the research group NuPPGIN.
-- 🌱 I’m currently learning about Dart, Flutter and Microservices.
-- 👯 I’m looking to collaborate on the growth of tech comunity.
-
-<br>
-
-## 
-
-<h3 align="center">
-<p align="center">
-<div align="center">
-  <a href="https://github.com/gustavoneri02"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaduConrado&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&layout=compact&langs_count=7&theme=react"/>
-</div>
-</p>
-</h3>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"</a>
-      <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"</a>
-      
-      
-    
-</p>
+# 💫 About Me:
+- 🔭 I’m currently working at a microservice project integrate with AR in the research group NuPPGIN.<br>- 🌱 I’m currently learning about backend development with Javascript|Express and Microservices.<br>- 👯 I’m looking to collaborate on the growth of tech comunity.<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cadu_bonicon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-eduardo-conrado-3b35561b1/) 
 
-<h3 align="center"> 
-<img align='center' src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="300"> 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CaduConrado&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CaduConrado&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaduConrado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=CaduConrado&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##
-
-<h3 align=center> Contact: </h3>
-        
-        
-<p align="center">
-  <a href="mailto:conradobcc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CaduConrado" height="30" width="80" /></a>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
